@@ -1,6 +1,6 @@
 # NeuroDim
 <p align="center">
-<img src="./Segre.png" alt="Segre" width="800" />
+<img src="./segre.png" alt="Segre" width="800" />
 </p>
 
 
