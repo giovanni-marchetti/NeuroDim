@@ -23,6 +23,9 @@ z = c*np.sinh(u)
 
 ax.plot_surface(x, y, z,  rstride=4, cstride=8, cmap=cm.coolwarm, linewidth=1)
 
+# ax.plot_surface(x, y, z,  rstride=4, cstride=8, cmap=cm.RdYlBu, linewidth=1)
+
+
 
 ax.set_xlim3d([-5, 5])
 ax.set_ylim3d([-5, 5])
